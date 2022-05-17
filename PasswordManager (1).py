@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #version 2.1
-#Autor: Nitish Garg 
-#Date: 04.08.2021
+#Autor: Abhishek garg
+#Date: 14.05.2022
 import random #getting random variables from library
 import string #getting string containing all the alphabets,numbers and special charecters
 import re #reading multiple lines and comapring with needed one
