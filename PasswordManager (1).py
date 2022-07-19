@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #version 2.1
-#Autor: Abhishek garg
+#Autor: mr Abhishek garg
 #Date: 14.05.2022
 import random #getting random variables from library
 import string #getting string containing all the alphabets,numbers and special charecters
